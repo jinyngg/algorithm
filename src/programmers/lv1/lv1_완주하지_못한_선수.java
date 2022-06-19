@@ -22,7 +22,7 @@ import java.util.Arrays;
  */
 public class lv1_완주하지_못한_선수 {
 
-    public static String Solution(String[] participant, String[] completion){
+    public static String Solution(String[] participant, String[] completion) {
         Arrays.sort(participant);
         Arrays.sort(completion);
 
